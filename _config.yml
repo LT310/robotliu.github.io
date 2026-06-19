@@ -1,0 +1,11 @@
+title: AUV Research Lab
+description: Autonomous Underwater Vehicles | MPC | MPPI | Multi-Agent Systems
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+author:
+  name: Your Name
